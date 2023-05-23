@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valarietan
 - 👀 I’m interested in big data, data analysis and visualisations. 
-- 🌱 I’m currently learning Python, SQL, Tableau and Power BI. 
+- 🌱 I’m currently learning web development, Python, SQL, Tableau and Power BI. 
 - 💞️ I’m looking to collaborate on meaningful projects to improve my coding skills.  
 - 📫 How to reach me valarietan@gmx.de 
 
